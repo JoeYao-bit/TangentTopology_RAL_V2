@@ -1,0 +1,631 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{bhattacharya2010search}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=BS}{%
+         family={Bhattacharya},
+         familyi={B\bibinitperiod},
+         given={Subhrajit},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BS1}
+    \strng{fullhash}{BS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{booktitle}{Proceedings of the AAAI conference on artificial
+  intelligence}
+    \field{number}{1}
+    \field{pages}{1230\bibrangedash 1237}
+    \field{title}{Search-based path planning with homotopy class constraints}
+    \field{volume}{24}
+    \field{year}{2010}
+  \endentry
+
+  \entry{bhattacharya2012search}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=BS}{%
+         family={Bhattacharya},
+         familyi={B\bibinitperiod},
+         given={Subhrajit},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Likhachev},
+         familyi={L\bibinitperiod},
+         given={Maxim},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Kumar},
+         familyi={K\bibinitperiod},
+         given={Vijay},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BSLMKV1}
+    \strng{fullhash}{BSLMKV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{booktitle}{Proceedings of the AAAI Conference on Artificial
+  Intelligence}
+    \field{number}{1}
+    \field{pages}{2097\bibrangedash 2099}
+    \field{title}{Search-based path planning with homotopy class constraints in
+  3D}
+    \field{volume}{26}
+    \field{year}{2012}
+  \endentry
+
+  \entry{bhattacharya2012topological}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BS}{%
+         family={Bhattacharya},
+         familyi={B\bibinitperiod},
+         given={Subhrajit},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Likhachev},
+         familyi={L\bibinitperiod},
+         given={Maxim},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Kumar},
+         familyi={K\bibinitperiod},
+         given={Vijay},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{BSLMKV1}
+    \strng{fullhash}{BSLMKV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{pages}{273\bibrangedash 290}
+    \field{title}{Topological constraints in search-based robot path planning}
+    \field{volume}{33}
+    \field{journaltitle}{Autonomous Robots}
+    \field{year}{2012}
+  \endentry
+
+  \entry{kim2021topology}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=KD}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Dabin},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=KGC}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Gyeong\bibnamedelima Chan},
+         giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=JY}{%
+         family={Jang},
+         familyi={J\bibinitperiod},
+         given={Youngseok},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=KHJ}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={H\bibnamedelima Jin},
+         giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{KD+1}
+    \strng{fullhash}{KDKGCJYKHJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{booktitle}{2021 IEEE/RSJ International Conference on Intelligent
+  Robots and Systems (IROS)}
+    \field{pages}{3117\bibrangedash 3124}
+    \field{title}{Topology-guided path planning for reliable visual navigation
+  of MAVs}
+    \field{year}{2021}
+  \endentry
+
+  \entry{kim2012optimal}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=KS}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Soonkyum},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SK}{%
+         family={Sreenath},
+         familyi={S\bibinitperiod},
+         given={Koushil},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Bhattacharya},
+         familyi={B\bibinitperiod},
+         given={Subhrajit},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Kumar},
+         familyi={K\bibinitperiod},
+         given={Vijay},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{KS+1}
+    \strng{fullhash}{KSSKBSKV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{booktitle}{2012 IEEE 51st IEEE Conference on Decision and Control
+  (CDC)}
+    \field{pages}{3157\bibrangedash 3164}
+    \field{title}{Optimal trajectory generation under homology class
+  constraints}
+    \field{year}{2012}
+  \endentry
+
+  \entry{kuderer2014online}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=KM}{%
+         family={Kuderer},
+         familyi={K\bibinitperiod},
+         given={Markus},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={Sprunk},
+         familyi={S\bibinitperiod},
+         given={Christoph},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=KH}{%
+         family={Kretzschmar},
+         familyi={K\bibinitperiod},
+         given={Henrik},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=BW}{%
+         family={Burgard},
+         familyi={B\bibinitperiod},
+         given={Wolfram},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{KM+1}
+    \strng{fullhash}{KMSCKHBW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{booktitle}{2014 IEEE International Conference on Robotics and
+  Automation (ICRA)}
+    \field{pages}{6462\bibrangedash 6467}
+    \field{title}{Online generation of homotopically distinct navigation paths}
+    \field{year}{2014}
+  \endentry
+
+  \entry{liu1991proposal}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LYH}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Y-H},
+         giveni={Y\bibinithyphendelim H\bibinitperiod},
+      }}%
+      {{hash=AS}{%
+         family={Arimoto},
+         familyi={A\bibinitperiod},
+         given={Suguru},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{LYHAS1}
+    \strng{fullhash}{LYHAS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{booktitle}{Proceedings. 1991 IEEE International Conference on
+  Robotics and Automation}
+    \field{pages}{312\bibrangedash 317}
+    \field{title}{Proposal of tangent graph and extended tangent graph for path
+  planning of mobile robots}
+    \field{year}{1991}
+  \endentry
+
+  \entry{liu1992path}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LYH}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Yun-Hui},
+         giveni={Y\bibinithyphendelim H\bibinitperiod},
+      }}%
+      {{hash=AS}{%
+         family={Arimoto},
+         familyi={A\bibinitperiod},
+         given={Suguru},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Sage Publications Sage CA: Thousand Oaks, CA}%
+    }
+    \strng{namehash}{LYHAS2}
+    \strng{fullhash}{LYHAS2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{number}{4}
+    \field{pages}{376\bibrangedash 382}
+    \field{title}{Path planning using a tangent graph for mobile robots among
+  polygonal and curved obstacles: Communication}
+    \field{volume}{11}
+    \field{journaltitle}{The International Journal of Robotics Research}
+    \field{year}{1992}
+  \endentry
+
+  \entry{oh2017edge}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=OS}{%
+         family={Oh},
+         familyi={O\bibinitperiod},
+         given={Shunhao},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LHW}{%
+         family={Leong},
+         familyi={L\bibinitperiod},
+         given={Hon\bibnamedelima Wai},
+         giveni={H\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OSLHW1}
+    \strng{fullhash}{OSLHW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{booktitle}{Tenth Annual Symposium on Combinatorial Search}
+    \field{title}{Edge n-level sparse visibility graphs: Fast optimal any-angle
+  pathfinding using hierarchical taut paths}
+    \field{year}{2017}
+  \endentry
+
+  \entry{palmieri2015fast}{article}{}
+    \name{author}{3}{}{%
+      {{hash=PL}{%
+         family={Palmieri},
+         familyi={P\bibinitperiod},
+         given={Luigi},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Rudenko},
+         familyi={R\bibinitperiod},
+         given={Andrey},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AKO}{%
+         family={Arras},
+         familyi={A\bibinitperiod},
+         given={Kai\bibnamedelima O},
+         giveni={K\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PLRAAKO1}
+    \strng{fullhash}{PLRAAKO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{A fast randomized method to find homotopy classes for
+  socially-aware navigation}
+    \field{journaltitle}{arXiv preprint arXiv:1510.08233}
+    \field{year}{2015}
+  \endentry
+
+  \entry{ranganeni2018effective}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=RV}{%
+         family={Ranganeni},
+         familyi={R\bibinitperiod},
+         given={Vinitha},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=SO}{%
+         family={Salzman},
+         familyi={S\bibinitperiod},
+         given={Oren},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Likhachev},
+         familyi={L\bibinitperiod},
+         given={Maxim},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RVSOLM1}
+    \strng{fullhash}{RVSOLM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{booktitle}{Proceedings of the International Conference on Automated
+  Planning and Scheduling}
+    \field{pages}{500\bibrangedash 508}
+    \field{title}{Effective footstep planning for humanoids using
+  homotopy-class guidance}
+    \field{volume}{28}
+    \field{year}{2018}
+  \endentry
+
+  \entry{rice2020multi}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RJJ}{%
+         family={Rice},
+         familyi={R\bibinitperiod},
+         given={Jacob\bibnamedelima J},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SJM}{%
+         family={Schimmels},
+         familyi={S\bibinitperiod},
+         given={Joseph\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{RJJSJM1}
+    \strng{fullhash}{RJJSJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{pages}{103834}
+    \field{title}{Multi-homotopy class optimal path planning for manipulation
+  with one degree of redundancy}
+    \field{volume}{149}
+    \field{journaltitle}{Mechanism and Machine Theory}
+    \field{year}{2020}
+  \endentry
+
+  \entry{rosmann2017integrated}{article}{}
+    \name{author}{3}{}{%
+      {{hash=RC}{%
+         family={R{\"o}smann},
+         familyi={R\bibinitperiod},
+         given={Christoph},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=HF}{%
+         family={Hoffmann},
+         familyi={H\bibinitperiod},
+         given={Frank},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Bertram},
+         familyi={B\bibinitperiod},
+         given={Torsten},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{RCHFBT1}
+    \strng{fullhash}{RCHFBT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{pages}{142\bibrangedash 153}
+    \field{title}{Integrated online trajectory planning and optimization in
+  distinctive topologies}
+    \field{volume}{88}
+    \field{journaltitle}{Robotics and Autonomous Systems}
+    \field{year}{2017}
+  \endentry
+
+  \entry{sturtevant2012benchmarks}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SN}{%
+         family={Sturtevant},
+         familyi={S\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SN1}
+    \strng{fullhash}{SN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{2}
+    \field{pages}{144 \bibrangedash  148}
+    \field{title}{Benchmarks for Grid-Based Pathfinding}
+    \verb{url}
+    \verb http://web.cs.du.edu/~sturtevant/papers/benchmarks.pdf
+    \endverb
+    \field{volume}{4}
+    \field{journaltitle}{Transactions on Computational Intelligence and AI in
+  Games}
+    \field{year}{2012}
+  \endentry
+
+  \entry{yao2019reinforcedrimjump}{article}{}
+    \name{author}{6}{}{%
+      {{hash=YZ}{%
+         family={Yao},
+         familyi={Y\bibinitperiod},
+         given={Zhuo},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=ZW}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Weimin},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=SY}{%
+         family={Shi},
+         familyi={S\bibinitperiod},
+         given={Yongliang},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Mingzhu},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LZ}{%
+         family={Liang},
+         familyi={L\bibinitperiod},
+         given={Zhenshuo},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=HQ}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={Qiang},
+         giveni={Q\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{YZ+1}
+    \strng{fullhash}{YZZWSYLMLZHQ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \field{title}{ReinforcedRimJump: Tangent-based shortest-path planning for
+  two-dimensional maps}
+    \field{journaltitle}{IEEE Transactions on Industrial Informatics}
+    \field{year}{2019}
+  \endentry
+
+  \entry{yen1971finding}{article}{}
+    \name{author}{1}{}{%
+      {{hash=YJY}{%
+         family={Yen},
+         familyi={Y\bibinitperiod},
+         given={Jin\bibnamedelima Y},
+         giveni={J\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Informs}%
+    }
+    \strng{namehash}{YJY1}
+    \strng{fullhash}{YJY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \field{number}{11}
+    \field{pages}{712\bibrangedash 716}
+    \field{title}{Finding the k shortest loopless paths in a network}
+    \field{volume}{17}
+    \field{journaltitle}{management Science}
+    \field{year}{1971}
+  \endentry
+
+  \entry{yi2017topology}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=YD}{%
+         family={Yi},
+         familyi={Y\bibinitperiod},
+         given={Daqing},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=GMA}{%
+         family={Goodrich},
+         familyi={G\bibinitperiod},
+         given={Michael\bibnamedelima A},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=HTM}{%
+         family={Howard},
+         familyi={H\bibinitperiod},
+         given={Thomas\bibnamedelima M},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SKD}{%
+         family={Seppi},
+         familyi={S\bibinitperiod},
+         given={Kevin\bibnamedelima D},
+         giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{YD+1}
+    \strng{fullhash}{YDGMAHTMSKD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \field{booktitle}{2017 IEEE International Conference on Systems, Man, and
+  Cybernetics (SMC)}
+    \field{pages}{513\bibrangedash 518}
+    \field{title}{Topology-aware RRT* for parallel optimal sampling in
+  topologies}
+    \field{year}{2017}
+  \endentry
+\enddatalist
+\endinput

@@ -1,0 +1,61 @@
+Reject
+Dear Mr. Zhuo Yao,
+Your paper 
+
+23-3108 
+"An efficient tangent graph based path planning for mutiple
+topologically distinctive paths"
+by Zhuo Yao, Wei Wang
+Submission for RA-L only
+
+submitted to the IEEE Robotics and Automation Letters (RA-L) has been
+reviewed by the Associate Editor and selected Reviewers. The reviews of
+the paper are attached.
+
+On the basis of the reviewers' ratings and comments, I regret to inform
+you that your paper is not suitable for publication in RA-L.
+
+We thank you for your interest in the IEEE Robotics and Automation
+Letters, and hope that you will consider publishing future papers here.
+
+Sincerely,
+
+Ashis Banerjee
+Editor (Manufacturing, Process, and Service Automation)
+IEEE Robotics and Automation Letters 	
+
+The authors propose a method to generate topologically distinct paths
+on a grid map. Unfortunately, the paper is not accepted for the
+following reasons:
+
+To begin with, the authors needs to point out clearly the potential
+applications for the proposed method, as the contribution of
+topologically distinct path in robotics application is not explained
+very well. 
+# 指明非同伦拓扑路径在机器人的应用场景
+
+Secondly, the authors did not explain in a clear fashion how distinct
+the proposed method is as compared with other SOTA methods. The
+benchmarked methods in experiments are not explained very well in
+related materials. Furthermore, I believe some ablation study here
+would be more persuasive. 
+# 清楚解释本文相对其他方法的区别，实验部分
+
+Lastly, there are concerns with the technical soundness of the proposed
+methods in more complex cases. How would the method work in 3D? What
+would the computational load be like in 3D cases? The methodology
+section will need a thorough reconsideration. 
+
+### ChatGPT
+作者们提出了一种在网格地图上生成拓扑不同路径的方法。不幸的是，这篇论文因以下原因未被接受：
+
+首先，作者需要清楚地指出所提出方法的潜在应用，因为在机器人应用中，拓扑不同路径的贡献并未解释得很好。（Introduction）
+RE: we add more clear description about the contribution of topologically distinct path in robotics application.
+
+其次，作者未能清晰地解释所提出方法与其他最先进方法相比的独特之处。实验中基准方法的解释在相关资料中并不清晰。此外，我认为在这里进行一些割除研究会更具说服力。(Results)
+RE: we add ablation study to show how our technique speed up path planning. 
+
+（Ablation study（消融实验）： 可以看出，消融实验的目的在于移除系统中的特定的部分，来控制变量式的研究这个部分对于系统整体的影响。如果去除这一部分后系统的性能没有太大损失，那么说明这一部分对于整个系统而言并不具有太大的重要性；如果去除之后系统性能明显的下降，则说明这一部分的设计是必不可少的。当然，如果出现了第三种情况，也就是去除之后模型的性能不降反升，那么建议找一下bug或者修改设计。）
+
+最后，对于在更复杂情况下所提出方法的技术可靠性存在疑虑。这种方法在三维情况下会如何运作？在三维情况下，计算负载会如何？方法论部分需要进行彻底重新考虑。(Methodology)
+RE: we add consideration of 3D cases in Methodology and update the proof about the relationship between locally shortest path and topologically distinctive path
